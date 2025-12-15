@@ -21,7 +21,7 @@ wget -qO ssh_tool.sh https://raw.githubusercontent.com/eooce/ssh_tool/main/ssh_t
 ```
 
 * 若提示没有curl或wget，先安装即可
-* Ubuntu/Debian：apt-get install -y curl wget unzip
+* Ubuntu/Debian：apt install -y curl wget unzip
 * Alpine：apk add curl wget
 * Fedora：dnf install -y curl wget
 * CentOS/Rocky/Almalinux/Oracle-linux/Amazon-linux：yum install -y curl wget
